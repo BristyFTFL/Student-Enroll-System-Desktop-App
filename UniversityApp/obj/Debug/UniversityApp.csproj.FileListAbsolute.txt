@@ -1,0 +1,41 @@
+E:\Nerd Castle\OOP 51st Batch\UniversityApp\UniversityApp\bin\Debug\UniversityApp.exe.config
+E:\14.1.15\UniversityApp\UniversityApp\bin\Debug\UniversityApp.exe.config
+D:\Bristy\UniversityApp\UniversityApp\bin\Debug\UniversityApp.exe.config
+D:\Bristy\UniversityApp\UniversityApp\bin\Debug\UniversityApp.exe
+D:\Bristy\UniversityApp\UniversityApp\bin\Debug\UniversityApp.pdb
+D:\Bristy\UniversityApp\UniversityApp\obj\Debug\UniversityApp.csprojResolveAssemblyReference.cache
+D:\Bristy\UniversityApp\UniversityApp\obj\Debug\UniversityApp.CourseEnrollmentUI.resources
+D:\Bristy\UniversityApp\UniversityApp\obj\Debug\UniversityApp.CourseEntryUI.resources
+D:\Bristy\UniversityApp\UniversityApp\obj\Debug\UniversityApp.DepartmentEntryUI.resources
+D:\Bristy\UniversityApp\UniversityApp\obj\Debug\UniversityApp.Form1.resources
+D:\Bristy\UniversityApp\UniversityApp\obj\Debug\UniversityApp.Properties.Resources.resources
+D:\Bristy\UniversityApp\UniversityApp\obj\Debug\UniversityApp.StudentEntryUI.resources
+D:\Bristy\UniversityApp\UniversityApp\obj\Debug\UniversityApp.csproj.GenerateResource.Cache
+D:\Bristy\UniversityApp\UniversityApp\obj\Debug\UniversityApp.exe
+D:\Bristy\UniversityApp\UniversityApp\obj\Debug\UniversityApp.pdb
+D:\Daily Project\UniversityApp\UniversityApp\bin\Debug\UniversityApp.exe.config
+D:\Daily Project\UniversityApp\UniversityApp\obj\Debug\UniversityApp.exe
+D:\Daily Project\UniversityApp\UniversityApp\obj\Debug\UniversityApp.pdb
+D:\Daily Project\UniversityApp\UniversityApp\obj\Debug\UniversityApp.csprojResolveAssemblyReference.cache
+D:\Daily Project\UniversityApp\UniversityApp\obj\Debug\UniversityApp.CourseEnrollmentUI.resources
+D:\Daily Project\UniversityApp\UniversityApp\obj\Debug\UniversityApp.CourseEntryUI.resources
+D:\Daily Project\UniversityApp\UniversityApp\obj\Debug\UniversityApp.DepartmentEntryUI.resources
+D:\Daily Project\UniversityApp\UniversityApp\obj\Debug\UniversityApp.Form1.resources
+D:\Daily Project\UniversityApp\UniversityApp\obj\Debug\UniversityApp.Properties.Resources.resources
+D:\Daily Project\UniversityApp\UniversityApp\obj\Debug\UniversityApp.StudentEntryUI.resources
+D:\Daily Project\UniversityApp\UniversityApp\obj\Debug\UniversityApp.csproj.GenerateResource.Cache
+D:\Daily Project\UniversityApp\UniversityApp\bin\Debug\UniversityApp.exe
+D:\Daily Project\UniversityApp\UniversityApp\bin\Debug\UniversityApp.pdb
+D:\Daily Project\Web&DesktopApp\UniversityApp\UniversityApp\bin\Debug\UniversityApp.exe.config
+D:\Daily Project\Web&DesktopApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.exe
+D:\Daily Project\Web&DesktopApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.pdb
+D:\Daily Project\Web&DesktopApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.csprojResolveAssemblyReference.cache
+D:\Daily Project\Web&DesktopApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.CourseEnrollmentUI.resources
+D:\Daily Project\Web&DesktopApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.CourseEntryUI.resources
+D:\Daily Project\Web&DesktopApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.DepartmentEntryUI.resources
+D:\Daily Project\Web&DesktopApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.Form1.resources
+D:\Daily Project\Web&DesktopApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.Properties.Resources.resources
+D:\Daily Project\Web&DesktopApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.StudentEntryUI.resources
+D:\Daily Project\Web&DesktopApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.csproj.GenerateResource.Cache
+D:\Daily Project\Web&DesktopApp\UniversityApp\UniversityApp\bin\Debug\UniversityApp.exe
+D:\Daily Project\Web&DesktopApp\UniversityApp\UniversityApp\bin\Debug\UniversityApp.pdb
